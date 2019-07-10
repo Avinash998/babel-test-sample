@@ -1,6 +1,6 @@
 # babel-test-sample ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-node-web-server is amazing template/project structure for learning about express server, hbs front end, for logging your server request etc. Devloped in node.js.
+babel-test-sampler is amazing template/project structure for learning about babel, hbs front end, for logging your server request etc. Devloped in node.js.
 
 ## Installation
 
